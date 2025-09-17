@@ -8,7 +8,7 @@ Hello,
 
 
 
-Here are some ideas to get you started:
+Here are some interesting things about me:
 
 - 🔭 I’m currently working on sharpening my coding skills and building projects that make life a little easier.
 - 🌱 I’m currently learning new languages and frameworks.
