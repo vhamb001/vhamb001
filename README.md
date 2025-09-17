@@ -1,20 +1,21 @@
-Hello, 👋
+Hello, 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png?v8">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.githubassets.com/images/icons/emoji/unicode/1f603.png?v8">
+  <img alt="Smiling emoji" src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png?v8" width="40">
+</picture>
+
 
 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="https://t4.ftcdn.net/jpg/01/15/20/75/360_F_115207580_US2etunH78I7iMYHOoNVvxQTCIdoPdRj.jpg">
-</picture>
+- 🔭 I’m currently working on sharpening my coding skills and building projects that make life a little easier.
+- 🌱 I’m currently learning new languages and frameworks.
+- 👯 I’m looking to collaborate on beginner friendly projects
+- 🤔 I’m looking for help with growing as a developer while balancing mom life.
+- 💬 Ask me about my journey from the skies ✈️ as a flight attendant to life in tech 👩‍💻.
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I once traveled the world for work—now I’m coding my way through new adventures!
+
 
